@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kiddom</string>
+    <string name="search">Go</string>
+    <string name="kiddom_challenge">Kiddom Challenge</string>
+    <string name="no_data_available">Your search did not match any documents. \nSuggestions:\nMake sure all words are spelled correctly.\nTry different keywords.\nTry more general keywords.</string>
+    <string name="empty_edit_text">Text Field is empty</string>
+    <string name="no_connectivity">Please check your Internet Connection</string>
+    <string name="api_failed">Something went wrong. Please try agin later.</string>
+</resources>
